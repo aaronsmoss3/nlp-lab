@@ -1,3 +1,5 @@
-This is a new repo
+Once you've a running Jupyter notebook, clone the repository:
 
-change
+git clone https://github.com/jasonsears/nlp-lab
+
+
